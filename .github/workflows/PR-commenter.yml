@@ -9,7 +9,7 @@ jobs:
         with:
           message: |
             **Hello**
-            🌏
+            and Welcome
             !
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           repo-token-user-login: 'github-actions[bot]' # The user.login for temporary GitHub tokens
