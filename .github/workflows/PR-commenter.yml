@@ -1,3 +1,5 @@
+name: PR-commenter
+
 on:
   pull_request:
 
